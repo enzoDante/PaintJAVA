@@ -1,0 +1,17 @@
+# arquivos de bytecode e outros gerado pelo java
+*.class
+*.jar
+*.war
+
+/bing/
+/target/
+
+# arquivos do blueJ ou outras
+*.ctxt
+*.project
+.settings/
+.classpath
+
+*.bluej
+*.uml
+*.umlcd
